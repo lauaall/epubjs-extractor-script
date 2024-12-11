@@ -1,0 +1,1 @@
+This is a generic script to extract EPUBs from binary data. In this case I have made it work with Chrome DevTools. No instructions/guides, this works on certain apps/websites that use epub.js JavaScript library.
